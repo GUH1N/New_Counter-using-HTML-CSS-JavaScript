@@ -1,1 +1,1 @@
-# New_Counter-using-HTML-CSS-JavaScript
+# New_Year_Counter-using-HTML-CSS-JavaScript
